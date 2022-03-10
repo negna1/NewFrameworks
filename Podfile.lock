@@ -1,0 +1,26 @@
+PODS:
+  - iCimulator (1.5)
+  - Realm (10.23.0):
+    - Realm/Headers (= 10.23.0)
+  - Realm/Headers (10.23.0)
+  - RealmSwift (10.23.0):
+    - Realm (= 10.23.0)
+
+DEPENDENCIES:
+  - iCimulator
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - iCimulator
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  iCimulator: 11419d08ace3c1745ee097f7e1596392dcee37a2
+  Realm: bdac9baede54becb2883f319fc50e9e12b35235c
+  RealmSwift: e083456e083dcfd6ef9087cdde6b031ec6224783
+
+PODFILE CHECKSUM: c91c86cf3e2f5374ab78e192c8effef774edd073
+
+COCOAPODS: 1.11.2
